@@ -20,4 +20,4 @@ All ipython notebook are used for data preprocessing, feature transforming and o
 
 
 Run
-For running a model, navigate to the /code/ and run the following commands: python mycode.py Make sure to change the data directory and the parameters accordingly before the model run.
+For running a model, navigate to the code.ipynb and run the python code.If you want to change any parameters do the changes accordingly and run the model.
